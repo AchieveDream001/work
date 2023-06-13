@@ -9,10 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@alifd/next": "^1.26.19",
+    "@alife/fusion-ui": "^0.3.0",
     "@types/node": "20.3.0",
     "@types/react": "18.2.11",
     "@types/react-dom": "18.2.4",
     "autoprefixer": "10.4.14",
+    "echarts": "^5.4.2",
     "eslint": "8.42.0",
     "eslint-config-next": "13.4.4",
     "next": "13.4.4",

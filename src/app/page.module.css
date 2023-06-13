@@ -1,0 +1,8 @@
+.search{
+  margin: 10px;
+}
+.itemContainer{
+  display:flex;
+  flex-direction: row;
+  width: 100vw;
+}
